@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Rtmambla/Rtmambla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 I’m Steeven from SAYNA and I've just started my training in the digital world.
+- 🤔 I want to learn to code because I love it!
+- 🌱 I’m currently learning learning about development and specifically how to learn it.
+- 👯 I’m looking to collaborate on many projects to see all the methodoly in the wordl, good luck for me !
+- 📫 How to reach me : rabesteeven@gmail.com
 
-Here are some ideas to get you started:
+<br><br>
+More about SAYNA : https://sayna.io/ <br>
+More about me : https://www.linkedin.com/in/steeven-mambola-rabenjamina-tsitohaina-425b13170/details/experience/
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> To the pleasure of exchanging and/or collaborating together <--
